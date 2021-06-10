@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+html{
+    min-height: 100%;
+}
+
+body{
+    min-height: 100%;
+    background-image: linear-gradient(to bottom right, #b7094c, #455e89);
+}
